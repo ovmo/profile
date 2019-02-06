@@ -72,3 +72,18 @@ footer {
   margin: 0 2em;
 }
 
+#sidebar {
+  background-color: #aaa;
+  position: fixed;
+  width: 300px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  font-size: 2em;
+  padding-left: 1em;
+  padding-top: 1em;
+}
+#page-content {
+  margin-left: 300px;
+}
+
